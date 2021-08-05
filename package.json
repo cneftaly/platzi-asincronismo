@@ -1,0 +1,22 @@
+{
+  "name": "platzi-asincronismo",
+  "version": "1.0.0",
+  "description": "Practicas del curso",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cneftaly/platzi-asincronismo.git"
+  },
+  "author": "Carlos Sosa <carlosneftaly@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cneftaly/platzi-asincronismo/issues"
+  },
+  "homepage": "https://github.com/cneftaly/platzi-asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
